@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "upload.path.documentos",
+    "type": "java.lang.String",
+    "description": "A description for 'upload.path.documentos'"
+  },
+  {
+    "name": "swagger.apiInfo.title",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.apiInfo.title'"
+  },
+  {
+    "name": "swagger.apiInfo.description",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.apiInfo.description'"
+  },
+  {
+    "name": "swagger.apiInfo.contact.name",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.apiInfo.contact.name'"
+  },
+  {
+    "name": "swagger.apiInfo.contact.url",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.apiInfo.contact.url'"
+  },
+  {
+    "name": "swagger.apiInfo.contact.email",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.apiInfo.contact.email'"
+  },
+  {
+    "name": "swagger.apiInfo.license",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.apiInfo.license'"
+  },
+  {
+    "name": "swagger.apiInfo.licenseUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.apiInfo.licenseUrl'"
+  },
+  {
+    "name": "swagger.apiInfo.version",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.apiInfo.version'"
+  }
+]}
